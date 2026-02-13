@@ -26,3 +26,6 @@ print(z) # [12, 200, 565, 100, 1, 2, 3]
 is_12_in_z = 12 in z
 print(is_12_in_z) # True
 
+is_200_not_in_z = 200 not in z
+print(is_200_not_in_z) # False
+
